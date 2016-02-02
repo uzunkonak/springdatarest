@@ -4,7 +4,7 @@
 <br />
 Easily Restify your entities<br />
 <br />
-**Domain classes(Entities)**<br />
+**Domain classes(Entities) :**<br />
 City, Country<br />
 <br />
 **Repository classes :**<br />
