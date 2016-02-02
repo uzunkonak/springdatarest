@@ -19,6 +19,7 @@ Database Properties<br />
 <br />
 **How to Run :**<br />
 mvn spring-boot:run<br />
+Access http://localhost:8080/api<br />
 **Spring Data Rest:** http://projects.spring.io/spring-data-rest/<br />
 **Spring Boot:** http://projects.spring.io/spring-boot/<br />
 <br />
