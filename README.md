@@ -2,6 +2,8 @@
 
 **Sample World Application**
 
+Easily Restify your entities
+
 **Domain classes(Entities)**
 City, Country
 
@@ -15,6 +17,8 @@ CityProjection, CountryProjection
 Path for Rest Services
 Database Properties
 
+**Spring Data Rest:** http://projects.spring.io/spring-data-rest/
+**Spring Boot:** http://projects.spring.io/spring-boot/
 
 
 
