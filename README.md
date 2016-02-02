@@ -17,6 +17,8 @@ CityProjection, CountryProjection<br />
 Path for Rest Services<br />
 Database Properties<br />
 <br />
+**How to Run :**<br />
+mvn spring-boot:run<br />
 **Spring Data Rest:** http://projects.spring.io/spring-data-rest/<br />
 **Spring Boot:** http://projects.spring.io/spring-boot/<br />
 <br />
