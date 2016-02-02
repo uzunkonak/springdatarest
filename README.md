@@ -2,7 +2,7 @@
 
 **Sample World Application**
 
-**Domain classes(Entities) : ORM Mappings**
+**Domain classes(Entities)**
 City, Country
 
 **Repository classes :**
@@ -14,6 +14,8 @@ CityProjection, CountryProjection
 **application.properties :**
 Path for Rest Services
 Database Properties
+
+
 
 
 
