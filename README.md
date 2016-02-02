@@ -1,5 +1,4 @@
-# springdatarest
-Spring Data Rest Simple Application with Spring Boot and Mysql
+#Spring Data Rest Simple Application with Spring Boot and Mysql
 
 Sample World Application
 
