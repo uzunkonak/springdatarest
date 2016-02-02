@@ -1,7 +1,6 @@
 #Spring Data Rest Sample Application with Spring Boot and Mysql<br />
 <br />
 **Sample World Application**<br />
-<br />
 Easily Restify your entities<br />
 <br />
 **Domain classes(Entities) :**<br />
