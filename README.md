@@ -1,17 +1,17 @@
 #Spring Data Rest Simple Application with Spring Boot and Mysql
 
-#Sample World Application
+**Sample World Application**
 
-#Domain classes(Entities) : ORM Mappings
+**Domain classes(Entities) : ORM Mappings**
 City, Country
 
-#Repository classes :
+**Repository classes :**
 CityRepository, CountryRepository
 
-#Projection classes :
+**Projection classes :**
 CityProjection, CountryProjection
 
-#application.properties :
+**application.properties :**
 Path for Rest Services
 Database Properties
 
