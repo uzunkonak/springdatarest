@@ -1,4 +1,4 @@
-#Spring Data Rest Simple Application with Spring Boot and Mysql<br />
+#Spring Data Rest Sample Application with Spring Boot and Mysql<br />
 <br />
 **Sample World Application**<br />
 <br />
